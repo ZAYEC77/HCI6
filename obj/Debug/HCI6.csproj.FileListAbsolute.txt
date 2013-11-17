@@ -1,0 +1,11 @@
+F:\Хлам 0\Study\HCI\HCI6\bin\Debug\HCI6.exe
+F:\Хлам 0\Study\HCI\HCI6\bin\Debug\HCI6.pdb
+F:\Хлам 0\Study\HCI\HCI6\obj\Debug\HCI6.csprojResolveAssemblyReference.cache
+F:\Хлам 0\Study\HCI\HCI6\obj\Debug\HCI6.Form1.resources
+F:\Хлам 0\Study\HCI\HCI6\obj\Debug\HCI6.Properties.Resources.resources
+F:\Хлам 0\Study\HCI\HCI6\obj\Debug\HCI6.csproj.GenerateResource.Cache
+F:\Хлам 0\Study\HCI\HCI6\obj\Debug\HCI6.exe
+F:\Хлам 0\Study\HCI\HCI6\obj\Debug\HCI6.pdb
+F:\Хлам 0\Study\HCI\HCI6\bin\Debug\HCI6.exe.config
+F:\Хлам 0\Study\HCI\HCI6\bin\Debug\HtmlAgilityPack.pdb
+F:\Хлам 0\Study\HCI\HCI6\bin\Debug\HtmlAgilityPack.xml
